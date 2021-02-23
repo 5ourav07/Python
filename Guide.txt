@@ -1,0 +1,7 @@
+1. Install Paython (with add on path option checked)
+2. run > AppData\Local\Programs\Python\Python39\Scripts
+3. In navigation bar type cmd
+4. type pip install jupyter and hit enter
+5. type jupyter notebook and hit enter
+6. Create a separate folder
+7. https://waterprogramming.wordpress.com/2018/04/19/launching-jupyter-notebook-using-an-icon-shortcut-in-the-current-working-directory-folder/
